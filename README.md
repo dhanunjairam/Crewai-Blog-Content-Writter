@@ -18,11 +18,6 @@ This is a Streamlit-based web application that uses [CrewAI](https://github.com/
 
 ---
 
-## 📸 Demo
-
-![Demo Screenshot](demo.png) <!-- Optional: Add a real screenshot -->
-
----
 
 ## 🛠️ Getting Started
 
